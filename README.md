@@ -10,7 +10,8 @@ Main steps are:
 
 Importing and Classifying the signs
 
-![traffic signs](https://user-images.githubusercontent.com/105145597/168443930-0605aafc-c200-49c6-88a3-8f02a89a8006.png)
+![german traffic signs](https://user-images.githubusercontent.com/105145597/168447834-3af89f49-9abd-4039-b6ba-435e250eaf08.png)
+
 
 
 
